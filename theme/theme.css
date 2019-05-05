@@ -1,0 +1,35 @@
+body, a, h1, h2, h3, h4,.btn {
+    font-family: 'Prompt', sans-serif !important;
+}
+.btn-primary{
+    border-color:#0097A7;
+}
+.btn-primary,.page-item.active .page-link {
+    background-color: #0097A7;
+}
+
+.btn-outline-primary {
+    border-color: #009acf;
+    color: #009acf !important;
+}
+
+.btn-primary:hover, .btn-outline-primary:hover {
+    background-color: #0c537e;
+}
+
+.btn-primary:active, .btn-outline-primary:active,
+.btn-primary:focus, .btn-outline-primary:focus {
+    background-color: #1479be !important;
+}
+
+.bg-primary {
+    background-color: #009acf !important;
+}
+
+.text-primary, .m-link--primary {
+    color: #009acf !important;
+}
+
+input:focus {
+    color: #009acf !important;
+}
